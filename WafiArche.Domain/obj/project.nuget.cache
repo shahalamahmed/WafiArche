@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PATCyz+51So=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Assignment\\WafiArche.Domain\\WafiArche.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YOU TECH BD\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

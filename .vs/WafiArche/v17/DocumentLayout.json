@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\products\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\products\\productappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\products\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\products\\iproductappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\orders\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\orders\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\orders\\iorderappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\orders\\iorderappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\orders\\orderappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\orders\\orderappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\orders\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\orders\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\orderdetails\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\orderdetails\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE53ECA6-0B96-436B-969F-318C287AC182}|WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj|d:\\projects\\assignment\\wafiarche.entityframeworkcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE53ECA6-0B96-436B-969F-318C287AC182}|WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj|solutionrelative:wafiarche.entityframeworkcore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\categories\\categoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\categories\\categoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\categories\\icategoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\categories\\icategoryappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\categories\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\categories\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\wafiarche.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\wafiarche.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE53ECA6-0B96-436B-969F-318C287AC182}|WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj|d:\\projects\\assignment\\wafiarche.entityframeworkcore\\wafiarche.entityframeworkcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE53ECA6-0B96-436B-969F-318C287AC182}|WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj|solutionrelative:wafiarche.entityframeworkcore\\wafiarche.entityframeworkcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\shippers\\ishipperappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\shippers\\ishipperappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\employees\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\customers\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\shippers\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\shippers\\shipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\suppliers\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\suppliers\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\categories\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\customers\\customerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\customers\\customerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\customers\\icustomerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\customers\\icustomerappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\customers\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\customers\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\customers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\customers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\suppliers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\suppliers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\suppliers\\supplierappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\suppliers\\supplierappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\suppliers\\isupplierappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\suppliers\\isupplierappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\suppliers\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\suppliers\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\shippers\\shipperappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\shippers\\shipperappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\shippers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\shippers\\shippercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\shippers\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\shippers\\dtos\\shipperdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|d:\\projects\\assignment\\wafiarche.api\\employees\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D13320-03D5-4598-9057-500FD9933584}|WafiArche.Api\\WafiArche.Api.csproj|solutionrelative:wafiarche.api\\employees\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\employees\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\employees\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\employees\\iemployeeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\employees\\iemployeeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\employees\\employeeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\employees\\employeeappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|d:\\projects\\assignment\\wafiarche.application\\wafiarche.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A1C41E3-3445-4B26-B99B-0D0167E44075}|WafiArche.Application\\WafiArche.Application.csproj|solutionrelative:wafiarche.application\\wafiarche.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|d:\\projects\\assignment\\wafiarche.domain\\wafiarche.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24E236DC-0D5B-4623-9206-DBA73461BB36}|WafiArche.Domain\\WafiArche.Domain.csproj|solutionrelative:wafiarche.domain\\wafiarche.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Orders\\IOrderAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Orders\\IOrderAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Orders\\IOrderAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Orders\\IOrderAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:47:29.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Orders\\OrderController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Orders\\OrderController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Orders\\OrderController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Orders\\OrderController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:48:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Products\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Products\\Dtos\\ProductDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Products\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Products\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:15:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Products\\IProductAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Products\\IProductAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Products\\IProductAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Products\\IProductAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:50:15.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Products\\ProductAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Products\\ProductAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Products\\ProductAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Products\\ProductAppService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:49:31.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Products\\Product.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Products\\Product.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:18:13.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Products\\ProductController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Products\\ProductController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Products\\ProductController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Products\\ProductController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:46:19.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Orders\\OrderAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Orders\\OrderAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Orders\\OrderAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Orders\\OrderAppService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:46:47.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Orders\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Orders\\Dtos\\OrderDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Orders\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Orders\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:46:18.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "WafiArche.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:04:06.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\OrderDetails\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\OrderDetails\\OrderDetail.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\OrderDetails\\OrderDetail.cs",
+              "RelativeToolTip": "WafiArche.Domain\\OrderDetails\\OrderDetail.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:26:59.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Program.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Program.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Program.cs",
+              "RelativeToolTip": "WafiArche.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:33:25.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.EntityFrameworkCore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WafiArche.EntityFrameworkCore\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.EntityFrameworkCore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WafiArche.EntityFrameworkCore\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T10:28:03.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Orders\\Order.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Orders\\Order.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Orders\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:44:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Categories\\ICategoryAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Categories\\ICategoryAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Categories\\ICategoryAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Categories\\ICategoryAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:13:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Categories\\CategoryAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Categories\\CategoryAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Categories\\CategoryAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Categories\\CategoryAppService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:12:50.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Categories\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Categories\\Dtos\\CategoryDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Categories\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Categories\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:12:28.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WafiArche.EntityFrameworkCore.csproj",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj",
+              "RelativeDocumentMoniker": "WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj",
+              "RelativeToolTip": "WafiArche.EntityFrameworkCore\\WafiArche.EntityFrameworkCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T10:27:05.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WafiArche.Api.csproj",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\WafiArche.Api.csproj",
+              "RelativeDocumentMoniker": "WafiArche.Api\\WafiArche.Api.csproj",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\WafiArche.Api.csproj",
+              "RelativeToolTip": "WafiArche.Api\\WafiArche.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T04:40:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Shipper.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Shippers\\Shipper.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Shippers\\Shipper.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Shippers\\Shipper.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Shippers\\Shipper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:08:00.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Employees\\Employee.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Employees\\Employee.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Employees\\Employee.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Employees\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:10:41.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Customers\\Customer.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Customers\\Customer.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Customers\\Customer.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Customers\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:06:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Categories\\Category.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Categories\\Category.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Categories\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:10:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "WafiArche.Api\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\appsettings.json",
+              "RelativeToolTip": "WafiArche.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T10:29:36.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IShipperAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Shippers\\IShipperAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Shippers\\IShipperAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Shippers\\IShipperAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Shippers\\IShipperAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:10:51.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\Suppliers\\Supplier.cs",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\Suppliers\\Supplier.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\Suppliers\\Supplier.cs",
+              "RelativeToolTip": "WafiArche.Domain\\Suppliers\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:43:15.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Categories\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Categories\\CategoryController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Categories\\CategoryController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Categories\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:15:51.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Customers\\CustomerAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Customers\\CustomerAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Customers\\CustomerAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Customers\\CustomerAppService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:12:38.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICustomerAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Customers\\ICustomerAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Customers\\ICustomerAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Customers\\ICustomerAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Customers\\ICustomerAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:02.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Customers\\Dtos\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Customers\\Dtos\\CustomerDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Customers\\Dtos\\CustomerDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Customers\\Dtos\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:13:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Customers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Customers\\CustomerController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Customers\\CustomerController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Customers\\CustomerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:08:02.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Suppliers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Suppliers\\SupplierController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Suppliers\\SupplierController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Suppliers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:55.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupplierAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Suppliers\\SupplierAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Suppliers\\SupplierAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Suppliers\\SupplierAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Suppliers\\SupplierAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:45:48.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISupplierAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Suppliers\\ISupplierAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Suppliers\\ISupplierAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Suppliers\\ISupplierAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Suppliers\\ISupplierAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:46:14.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Suppliers\\Dtos\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Suppliers\\Dtos\\SupplierDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Suppliers\\Dtos\\SupplierDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Suppliers\\Dtos\\SupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:45:02.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ShipperAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Shippers\\ShipperAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Shippers\\ShipperAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Shippers\\ShipperAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Shippers\\ShipperAppService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:10:26.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShipperController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Shippers\\ShipperController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Shippers\\ShipperController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Shippers\\ShipperController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Shippers\\ShipperController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:11:22.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShipperDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Shippers\\Dtos\\ShipperDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Shippers\\Dtos\\ShipperDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Shippers\\Dtos\\ShipperDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Shippers\\Dtos\\ShipperDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:09:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Api\\Employees\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WafiArche.Api\\Employees\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Api\\Employees\\EmployeeController.cs",
+              "RelativeToolTip": "WafiArche.Api\\Employees\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:14:57.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Employees\\Dtos\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Employees\\Dtos\\EmployeeDto.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Employees\\Dtos\\EmployeeDto.cs",
+              "RelativeToolTip": "WafiArche.Application\\Employees\\Dtos\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:12:08.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IEmployeeAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Employees\\IEmployeeAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Employees\\IEmployeeAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Employees\\IEmployeeAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Employees\\IEmployeeAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:13:34.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeAppService.cs",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\Employees\\EmployeeAppService.cs",
+              "RelativeDocumentMoniker": "WafiArche.Application\\Employees\\EmployeeAppService.cs",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\Employees\\EmployeeAppService.cs",
+              "RelativeToolTip": "WafiArche.Application\\Employees\\EmployeeAppService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:13:05.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WafiArche.Application.csproj",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Application\\WafiArche.Application.csproj",
+              "RelativeDocumentMoniker": "WafiArche.Application\\WafiArche.Application.csproj",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Application\\WafiArche.Application.csproj",
+              "RelativeToolTip": "WafiArche.Application\\WafiArche.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T03:41:06.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WafiArche.Domain.csproj",
+              "DocumentMoniker": "D:\\Projects\\Assignment\\WafiArche.Domain\\WafiArche.Domain.csproj",
+              "RelativeDocumentMoniker": "WafiArche.Domain\\WafiArche.Domain.csproj",
+              "ToolTip": "D:\\Projects\\Assignment\\WafiArche.Domain\\WafiArche.Domain.csproj",
+              "RelativeToolTip": "WafiArche.Domain\\WafiArche.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T10:17:01.358Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fDPPq9ZwQM1kO4pT5iLb08KIiysLprQ+5Z2IIXqJMIc=",
+  "Source": "WafiArche.Api",
+  "BasePath": "_content/WafiArche.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

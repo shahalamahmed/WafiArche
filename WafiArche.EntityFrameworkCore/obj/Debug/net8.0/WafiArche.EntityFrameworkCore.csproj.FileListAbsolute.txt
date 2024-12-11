@@ -1,0 +1,15 @@
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\bin\Debug\net8.0\WafiArche.EntityFrameworkCore.deps.json
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\bin\Debug\net8.0\WafiArche.EntityFrameworkCore.dll
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\bin\Debug\net8.0\WafiArche.EntityFrameworkCore.pdb
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\bin\Debug\net8.0\WafiArche.Domain.dll
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\bin\Debug\net8.0\WafiArche.Domain.pdb
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.AssemblyInfo.cs
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArch.CFDB15F5.Up2Date
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.dll
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\refint\WafiArche.EntityFrameworkCore.dll
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\WafiArche.EntityFrameworkCore.pdb
+D:\Projects\Assignment\WafiArche.EntityFrameworkCore\obj\Debug\net8.0\ref\WafiArche.EntityFrameworkCore.dll

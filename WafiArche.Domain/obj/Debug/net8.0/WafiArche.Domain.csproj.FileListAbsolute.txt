@@ -1,0 +1,12 @@
+D:\Projects\Assignment\WafiArche.Domain\bin\Debug\net8.0\WafiArche.Domain.deps.json
+D:\Projects\Assignment\WafiArche.Domain\bin\Debug\net8.0\WafiArche.Domain.dll
+D:\Projects\Assignment\WafiArche.Domain\bin\Debug\net8.0\WafiArche.Domain.pdb
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.csproj.AssemblyReference.cache
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.AssemblyInfoInputs.cache
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.AssemblyInfo.cs
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.dll
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\refint\WafiArche.Domain.dll
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\WafiArche.Domain.pdb
+D:\Projects\Assignment\WafiArche.Domain\obj\Debug\net8.0\ref\WafiArche.Domain.dll
